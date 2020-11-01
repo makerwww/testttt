@@ -1,3 +1,4 @@
-function sss() {
-    console.log('asdfasdf');
+console.log('lkdghasdlfgkj');
+function nnn() {
+    return 3;
 }
